@@ -1,0 +1,13 @@
+# Basic arithmetic operations
+a = 10
+b = 5
+sum_ = a + b
+difference = a - b
+product = a * b
+quotient = a / b
+remainder = a % b
+print("Sum:", sum_)
+print("Difference:", difference)
+print("Product:", product)
+print("Quotient:", quotient)
+print("Remainder:", remainder)
